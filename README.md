@@ -14,4 +14,6 @@ Hey! I'm a Vancouver-based CS undergraduate 🎓 studying at **University of Bri
 
 <br>
 
-[![TLuke Browning's GitHub stats](https://github-readme-stats.vercel.app/api?username=browningluke&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=browningluke&count_private=true&show_icons=true&theme=malgolia&bg_color=00000000&hide_title=true" />
+</a>
