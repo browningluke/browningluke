@@ -6,7 +6,7 @@
 </div>
 <br>
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey! I'm a Vancouver-based CS undergraduate 🎓 studying at **University of British Columbia**. I'm interested in DevOps, Cloud Architecture and UNIX systems. I work as a Cloud DevOps Engineer Co-op at **Samsung Electronics Canada**. Former DevOps Engineer Co-op at **BGC Engineering Inc**. I love longboarding 🛹, photography 📷 and coffee ☕.
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey! I'm a Vancouver-based CS undergraduate 🎓 studying at **University of British Columbia**. I'm interested in DevOps, Cloud Architecture and UNIX systems. I work as a Cloud DevOps Engineer Co-op at **Samsung R&D Canada**. Former DevOps Engineer Co-op at **BGC Engineering Inc**. I love longboarding 🛹, photography 📷 and coffee ☕.
 
 
 **Need a starting point?** I'd recommend [mangathr](https://github.com/browningluke/mangathr) or [homelab](https://github.com/browningluke/homelab). \
